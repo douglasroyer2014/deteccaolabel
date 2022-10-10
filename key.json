@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crack-glider-365123",
+  "private_key_id": "e7610cdf4a22353a3ceec7643e8045ac39b0580d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9KaEH0/Ph/NkG\nQhiK+6EsxWdQxEymEOhghNlQHzkj3okXhiGZAi9/QONGZDo6AmM/VKxLiSsIZA+g\nYtzQY8DZI7UeOSFvM1p+9XGYa2IBaTSOk/RLHCrlyunXxuyCcnJGqBWjkNb834CP\nDloIIqBvPM6CbfDe5Ve4yezyLRNSgy8NPoUz7Cb58kJ7KAj03ABHWM1t7KBTnvkF\n1+r+ti2xvSKXbubeT1FpWjSLYYO+3995PjY/ahTNVr3g3B/9jvcAhjIszjkoKYwH\nuedvfOeTZA/rccOTNqmXmRSGC39Zjt4TQlHcZ6X3bgX9xYRIsdCVMGslEbFTbTra\n5P61I8B7AgMBAAECggEADhqpAZLpp8t5CRDrkI1ThqmPWwPP7T/se6ncJC+3zHde\nxGzBW43Aqd3WNFzrxICCEupG0HkBRuZjDePhL/6IFgimDANZfVeYY0f8uM8k5xMH\nkqvwdps6jZi0F90irFVJNQB6YJA/n2owxTneN6YRTUn84de9snjqMgKIUsROoQO6\n6nkF6iYHy6ZZZ41SSOIpY1gfTQlm0yemWMBwEUAQGYcADe7K8gikjp9Q7nMewAnI\n1XhkyUB6UwCCw3tqzEst0uTcUmp0C49CSR/n+JyB75jGMfMlTDzPYj4oP4VhfZss\nJRhzZAnaVqFab186zSXLY5zoiTZ6t/hBPNIrnFOziQKBgQD6eoBMLXycgnyQlR4o\n0gIHtHIG1Pr4bGBodSOOyK+4hcgjjpYi5i2pgSO1tym7hUJJrFkUz06vkqir0MSC\nRlQ13lzm5KiCcECHxZWghbDI0ha/yNy8YVWa+EI5Tu5buz74Xvncwp+gWwEn0h3+\n0YP/Nfp+wJVgU7FsUh59pANcqQKBgQDBVRw9uy5zP68O67y2+UHYOSHI3jfWqGDu\nlTinCgmilqR4PZWilIjvvrosRptqfg9vBNxrqnRtTFgB3/1NUDvFFcL3cc78Q7Hp\nSLTdxGR943LjEz2NIlBaCLEfmaABv9veQDxh5o7fKIEIxwGLDSoR8k3Uz57sTzxV\nORigvIBmgwKBgDI7VPVx/daJWJ/KN+Up0Jxo9KEoHzioy2DHdR0SZCMWOT/gPX28\nOZYPvvCXTfg8TkHmHWtN89LED619TZturT6sXGc1nhGin15bIpmxlfWAJG3Lw3DH\n+Fn+xZEmoiilUYiPy34ZTdfjyESLH9bVf6oz0guPZaWOwzsc8N5zgPUZAoGAapRh\n8kIbdFt6RU5+BZzZyLqOPm8K92JxtXU7+xIUh7ZmSwcgU7Vw3EIX3kq6aPW/ymMy\npIQelRaOOdJikNmXaan6hnEOO5GSJdn4I32eLKxT7Izx1LlC9K9v/cyyIeTD7/0X\njJ0OzEVHBTC4UBDczXH3qEchBIMV7qGASzQ/0MMCgYEAxuIpY/1A8eu6AGQPuyJW\nt+zcdsDpG59+V4pincrTN7kmg/lPN8kYUk0Zr1hzVfdv2WXl+nKCssK7J/eycrzC\n+v+d5OcKHVCounPFuPEW/ph57V98VYpa7aJfsQqDAYrfUoGs+gKUCdiLeWUtsMHz\nEzFBHLqaKnFyHIUD45QJrZw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@crack-glider-365123.iam.gserviceaccount.com",
+  "client_id": "117275098927912386835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40crack-glider-365123.iam.gserviceaccount.com"
+}
