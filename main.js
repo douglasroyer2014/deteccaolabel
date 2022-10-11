@@ -1,17 +1,17 @@
 const vision = require('@google-cloud/vision');
 
-const client = new vision.ImageAnnotatorClient({
-    keyFilename: 'C:\\Users\\iamdu\\OneDrive\\Documentos\\Projetos\\deteccaolabel\\key.json'
-});
+async function setEndpoint() {
+    const clientOptions = {
+        apiEndpoint: 'eu-vision.googleapis.com',
+        keyFilename: 'C:\\Users\\Eduardo Costa\\Documents\\GitHub\\deteccaolabel\\key.json'
+    };
 
-const fileName = 'C:\\Users\\iamdu\\Downloads\\invoice-template-us-neat-750px.png';
+    const client = new vision.ImageAnnotatorClient(clientOptions);
 
-client.labelDetection(fileName)
-    .then((result) => {
-        const labels = result[0].labelAnnotations;
-        console.log("Labels: ");
-        labels.forEach(label => console.log(JSON.stringify(label)));
-    })
-    .catch((erro) => {
-        console.log('Error: ', erro);
-    });
+    const [result] = await client.textDetection('C:\\Users\\Eduardo Costa\\Documents\\Paytrack\\Imagens\\Testes\\Cupons_para_teste_e_apresentacao\\2878ca5a-99ba-4a08-9711-7955575dc89c.jpg');
+    const labels = result.textAnnotations;
+    console.log('Text:');
+    labels.forEach(label => console.log(label.description));
+}
+
+setEndpoint();
